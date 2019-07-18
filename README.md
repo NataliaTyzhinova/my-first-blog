@@ -1,1 +1,1 @@
-# pythondatascience
+# django blog
